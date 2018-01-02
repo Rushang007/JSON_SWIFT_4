@@ -5,7 +5,7 @@
 //  Created by Abhishek Mehta on 02/01/18.
 //  Copyright © 2018 Abhishek Mehta. All rights reserved.
 //
-
+//https://medium.com/@adinugroho/fixed-height-uicollectionview-inside-uitableview-79f24657d08f
 import UIKit
 
 @UIApplicationMain
